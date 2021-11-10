@@ -1,4 +1,4 @@
 ## Cheatsheets / Шпаргалки
 
-- Сигнатуры (eng)
+- **[Сигнатуры (eng)](https://smalman.github.io/sigseng)**
 - Список ВХ
