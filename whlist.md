@@ -1,5 +1,5 @@
 ## Список ВХ
-[Шпаргалки](https://smalman.github.io/) > Список ВХ
+[Шпаргалки](https://smalman.github.io/) > EVE > Список ВХ
 
 Для вставки в био:
 ```
