@@ -1,5 +1,5 @@
 ## Сигнатуры
-[Шпаргалки](https://smalman.github.io/) > Сигнатуры
+[Шпаргалки](https://smalman.github.io/) > EVE > Сигнатуры
 
 |Relic|Safety|HS|LS|NS|C1|C2|C3|C4|C5|C6|
 |--|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-:|
